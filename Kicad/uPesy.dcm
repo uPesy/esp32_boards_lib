@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP uPesy_ESP32_Wroom_DevKit
+D uPesy ESP32 Wroom DevKit board. An ESP32 board fully compatible on breadboard made by uPesy Electronics
+K upesy esp32 wifi
+F https://learn.upesy.com/fr/boards/ESP32_Wroom_DevKit.html
+$ENDCMP
+#
+$CMP uPesy_ESP32_Wrover_DevKit
+D uPesy ESP32 Wrover DevKit board. An ESP32 board with 4MB of extra PSRAM fully compatible on breadboard made by uPesy Electronics
+K upesy esp32 wifi wrover psram
+F https://learn.upesy.com/fr/boards/ESP32_Wrover_DevKit.html
+$ENDCMP
+#
+#End Doc Library
