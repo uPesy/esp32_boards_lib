@@ -17,7 +17,7 @@ Available on Kicad, Fritzing
 **Download [here](https://github.com/uPesy/esp32_boards_lib/raw/main/uPesy%20ESP32%20Wrover%20DevKit%20v2/Fritzing/uPesy%20ESP32%20Wrover%20DevKit%20v2.fzpz) !**
 
 ### KiCad
+<img src="https://raw.githubusercontent.com/uPesy/esp32_boards_lib/main/Kicad/schematic_preview.PNG" width="500">
 
-**Download all boards for KiCad [here](https://github.com/uPesy/esp32_boards_lib/raw/main/Kicad/Kicad.zip) !**
+**Download all boards for KiCad [here](https://github.com/uPesy/esp32_boards_lib/raw/main/Kicad.zip) !**
 
-<img src="https://github.com/uPesy/esp32_boards_lib/blob/main/uPesy%20ESP32%20Wrover%20DevKit%20v2/Fritzing/img/demo.PNG" width="400">
